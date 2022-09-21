@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_20220917_141924.jpg</filename>
+	<path>C:\Users\dawid\OneDrive\Pulpit\Images\IMG_20220917_141924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>993</xmin>
+			<ymin>663</ymin>
+			<xmax>2930</xmax>
+			<ymax>1560</ymax>
+		</bndbox>
+	</object>
+</annotation>
